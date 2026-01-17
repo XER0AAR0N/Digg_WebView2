@@ -1,9 +1,9 @@
 # Packager.toml
 
-name = "Digg"
-product-name = "Digg"
-version = "1.0.0"
+name = "Digglit"
+product-name = "Digglit"
+version = "0.0.1"
 identifier = "com.xer0aar0n.digg"
 
 [package.metadata.packager.windows]
-resources = ["target/release/digg.exe"]
+resources = ["target/release/digglit.exe"]

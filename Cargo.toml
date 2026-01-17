@@ -1,6 +1,6 @@
 [package]
-name = "digg"
-version = "1.0.0"
+name = "digglit"
+version = "0.0.1"
 authors = ["Aaron Doe <xer0aar0n@gmail.com>"]
 edition = "2024"
 
